@@ -1,2 +1,5 @@
 # TestSSM
 水果商城
+基于SSM框架实现的水果商城
+虚拟目录必须是/test1_war_exploded
+因为数据库文件存储图片路径是/test1_war_exploded开头的
